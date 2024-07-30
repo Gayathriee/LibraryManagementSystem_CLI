@@ -1,0 +1,60 @@
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.AssemblyInfoInputs.cache
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.AssemblyInfo.cs
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.csproj.CoreCompileInputs.cache
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.exe
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.deps.json
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.runtimeconfig.json
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.pdb
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\refint\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.pdb
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.genruntimeconfig.cache
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\ref\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB01801\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.exe
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.deps.json
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.runtimeconfig.json
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.pdb
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.AssemblyInfoInputs.cache
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.AssemblyInfo.cs
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.csproj.CoreCompileInputs.cache
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\refint\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.pdb
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.genruntimeconfig.cache
+C:\Users\g3hap\OneDrive\Desktop\draft CLI\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\ref\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.exe
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.deps.json
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.runtimeconfig.json
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\bin\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.pdb
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.AssemblyInfoInputs.cache
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.AssemblyInfo.cs
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.csproj.CoreCompileInputs.cache
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\refint\LibraryManagementSystem_CLI_CB01801.dll
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.pdb
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\LibraryManagementSystem_CLI_CB01801.genruntimeconfig.cache
+C:\Users\g3hap\OneDrive\Desktop\LibraryManagementSystem_CLI_CB010801_FINAL\LibraryManagementSystem_CLI_CB01801\obj\Debug\net8.0\ref\LibraryManagementSystem_CLI_CB01801.dll

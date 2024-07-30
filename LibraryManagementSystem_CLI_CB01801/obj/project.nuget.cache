@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sfVtw7Dsu7EaD/XYtKnWcSe/GQNLA1agEeiygvktGZlkkr3uAM99EeehJ78Q+12c/nxqEPprGrzHWz7ZsqI/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g3hap\\OneDrive\\Desktop\\LibraryManagementSystem_CLI_CB010801_FINAL\\LibraryManagementSystem_CLI_CB01801\\LibraryManagementSystem_CLI_CB01801.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g3hap\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
